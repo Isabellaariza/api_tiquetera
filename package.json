@@ -1,0 +1,24 @@
+{
+  "name": "evaluacion_clean_architecture",
+  "version": "1.0.0",
+  "description": "api clean architecture",
+  "keywords": [
+    "api",
+    "clean",
+    "architecture"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "license": "ISC",
+  "author": "Isabella Ariza",
+  "main": "src/app.js",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
+}
