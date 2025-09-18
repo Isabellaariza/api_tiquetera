@@ -1,4 +1,4 @@
-import CreateTiquetera from "../../application/use-cases/tiqueteras/Createtiquetera.js";
+import CreateTiquetera from "../../application/use-cases/tiqueteras/CreateTiquetera.js";
 import GetTiqueteras from "../../application/use-cases/tiqueteras/GetTiqueteras.js";
 import GetTiqueterasById from "../../application/use-cases/tiqueteras/GetTiqueterasById.js";
 import UpdateTiquetera from "../../application/use-cases/tiqueteras/UpdateTiqueteras.js";
